@@ -6,6 +6,10 @@
 
 <p align="center">
   <strong>Think before you build.</strong> A universal protocol that makes AI coding agents design before they code.
+  <br><br>
+  <a href="https://agentguardhq.github.io/preflight">Website</a> &middot;
+  <a href="PROTOCOL.md">Protocol Spec</a> &middot;
+  <a href="https://github.com/AgentGuardHQ/preflight/releases/tag/v1.0.0">v1.0.0</a>
 </p>
 
 Preflight defines 5 mandatory phases every agent completes before writing code: **Orient, Clarify, Approach, Confirm, Execute.** It works with any AI coding agent — no runtime, no API key, one file.
